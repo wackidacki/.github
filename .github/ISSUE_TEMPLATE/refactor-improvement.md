@@ -2,7 +2,7 @@
 name: Refactor/Improvement
 about: Suggest internal improvements or code refactoring
 title: "[REFACTOR]: "
-labels: enhancement
+labels: refactor
 assignees: ''
 
 ---
